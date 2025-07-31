@@ -1,2 +1,1 @@
-# Student-Application
-Student Learning Application
+A responsive, component-based web application built using Next.js, React, and TailwindCSS, styled with ShadCN UI and powered by Radix UI components. Features include dynamic theming, form validation with React Hook Form and Zod, charting with Recharts, and carousels using Embla Carousel. Configured with TypeScript, PostCSS, and optimized for scalability and accessibility.
